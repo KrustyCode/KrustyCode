@@ -10,8 +10,6 @@ Honestly, I am simply someone who fell in love with the magic of programming; ho
 
 ---
 
-## Tech Stack & Tools
-
 ### Languages
 
 <p align="left">
@@ -46,13 +44,6 @@ Honestly, I am simply someone who fell in love with the magic of programming; ho
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-</p>
-
-### Tools & Platforms
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
 
 </div>
